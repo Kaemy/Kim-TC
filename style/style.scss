@@ -77,7 +77,6 @@ $width-sidebar: 135px;
                 border: solid 1px $color-black;
                 border-radius: 20px;
                 margin: 3.4% auto;
-                background-color: white;
             }
 
             .active {
@@ -144,7 +143,6 @@ $width-sidebar: 135px;
             border: solid 1px black;
             width: 100px;
             justify-content: center;
-            background-color: white;
 
             &:hover {
                 -webkit-transition: 2s; 
@@ -166,7 +164,6 @@ $width-sidebar: 135px;
             border: solid 1px black;
             padding: 5px 5px;
             font-size: 11px;
-            background-color: white;
 
             span {
                 color: #2890ac;
@@ -187,7 +184,6 @@ $width-sidebar: 135px;
             padding: 5px 10px 5px 5px;
             font-size:11px;
             text-align: justify;
-            background-color: white;
             border-radius: 10px;
             border: 1px solid black;
 
@@ -220,7 +216,6 @@ $width-sidebar: 135px;
             text-align: justify;
             height: 122px;
             overflow: auto;
-            background-color: white;
 
             .title {
                 font-weight: lighter;
@@ -428,7 +423,6 @@ $width-sidebar: 135px;
             border: 1px solid $color-black;
             border-radius: 5px;
             padding: 5px 0;
-            background-color: white;
         }
         .grid-pkmn {
             display: grid;
@@ -474,7 +468,6 @@ $width-sidebar: 135px;
                 justify-content: center;
                 grid-column: 1;
                 grid-row: 2;
-                background-color: white;
             }
 
             .pkmn-infos {
@@ -486,7 +479,6 @@ $width-sidebar: 135px;
                 border: 1px solid $color-black;
                 padding: 6px 5px;
                 font-size: 11px;
-                background-color: white;
 
                 span {
                     color: #2890ac;
@@ -503,7 +495,6 @@ $width-sidebar: 135px;
                 overflow: auto;
                 letter-spacing: 1px;
                 padding: 0 0 2px 6px;
-                background-color: white;
 
                 div {
                     color: #63b3d9;
@@ -525,7 +516,6 @@ $width-sidebar: 135px;
                 padding: 0 5px;
                 height: 160px;
                 overflow: auto;
-                background-color: white;
 
                 div {
                     &:first-of-type, &:last-of-type {
@@ -572,7 +562,6 @@ $width-sidebar: 135px;
                 padding: 8px 15px;
                 overflow: auto;
                 letter-spacing: 6px;
-                background-color: white;
                 color: #63b3d9;
                 font-size: 18px;
                 text-transform: uppercase;
