@@ -206,9 +206,6 @@ body {
   height: 122px;
   overflow: auto;
 }
-.content-tc .bloc-card .infos a {
-  margin-left: 12px;
-}
 .content-tc .bloc-card .infos hr {
   margin-top: 8px;
   margin-bottom: 8px;
@@ -326,6 +323,18 @@ body {
 .content-tc .content-pkmn {
   width: 420px;
   margin: 0 auto;
+}
+.content-tc .content-pkmn .final {
+  margin-right: 15%;
+}
+.content-tc .content-pkmn .first {
+  margin-left: 15%;
+}
+.content-tc .content-pkmn .final1 {
+  margin-right: 10%;
+}
+.content-tc .content-pkmn .first1 {
+  margin-left: 10%;
 }
 .content-tc .content-pkmn .nav-link {
   display: block;

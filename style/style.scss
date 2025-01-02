@@ -247,10 +247,6 @@ $width-sidebar: 135px;
             height: 122px;
             overflow: auto;
 
-            a {
-                margin-left: 12px;
-            }
-
             hr {
                 margin-top: 8px;
                 margin-bottom: 8px;
@@ -396,6 +392,22 @@ $width-sidebar: 135px;
     .content-pkmn {
         width: 420px;
         margin: 0 auto;
+
+        .final {
+            margin-right: 15%;
+        }
+
+        .first {
+            margin-left: 15%;
+        }
+
+        .final1 {
+            margin-right: 10%;
+        }
+
+        .first1 {
+            margin-left: 10%;
+        }
 
         .nav-link {
             display: block;
